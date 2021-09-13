@@ -1,0 +1,95 @@
+div{
+	background-color: #00ffff;
+}
+
+p{
+	width: 250px;
+	height: 150px;
+	border: 1px solid black;
+	float: left;
+	margin-left: 10px;
+
+}
+
+#p1{
+	background-color: #a52a2a;
+	background: url("Goku_powerup.gif") #a52a2a;
+	background-repeat: no-repeat;
+	background-position: center;
+	clear: both;
+
+
+}
+
+#p2{
+	background-color: #DEB887;
+	background: url("Goku_as_grandfather.gif") #DEB887;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+#p3{
+	background-color: #5F9EA0;
+	background: url("ultra_instint_mastered.gif") #5F9EA0;
+	background-repeat: no-repeat;
+	background-position: center;
+	
+}
+
+#p4{
+	background-color: #FF7F50;
+	background: url("goku_vs_Kefla.gif") #FF7F50;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#p5{
+	background: url("goku_vs_gohan.gif") #808000;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#p6{
+	background: url("Goku_and_freeza.gif") #008080;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#p7{
+	background: url("Gogeta_SS4.gif") #00FF00;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#p8{
+	background: url("Ultra instint-form.gif") #C0C0C0;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#p9{
+	background: url("Goku_vs_Trunks.gif") #C0C0C0;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#p10{
+	background: url("gogeta_vs_brolly.gif") #C0C0C0;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#p11{
+	background: url("SS3_vs_all_villens.gif") #C0C0C0;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#p12{
+	background: url("trunks-range.gif") #C0C0C0;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+section{
+	clear: left;
+}
